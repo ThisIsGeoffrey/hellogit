@@ -1,1 +1,2 @@
 #nothing
+Account a = new Account();
